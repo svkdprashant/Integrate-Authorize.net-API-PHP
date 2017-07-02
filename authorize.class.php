@@ -138,7 +138,7 @@ class AuthorizeAPI
         }
     }
 
-    /**
+    /*
      1. addCustomerPaymentProfile
 	    -> To create customer payment profile in authorize.net
 	    -> We are checking if customer profile exist or not. If customer profile is not exists then create it and then create customer payment profile.
